@@ -8,3 +8,13 @@ def  hello_world(true):
 		print('hello world')
 	else:
 		print('wha')
+
+
+
+neat = True
+
+def macbook_stuff(neat):
+	if neat == True:
+		print('I did code on de mac!')
+	else:
+		print("It didn't work D:!")
